@@ -16,3 +16,6 @@ last line added locally
 </ol>
 
 **bold text**
+
+![Ceviche!](recipe.jpg "Ceviche")
+
